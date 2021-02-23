@@ -11,7 +11,7 @@ Number of Attributes: 11 including the Target Class
 
 ## Attribute Information:
 
- 	WTT, 	PTI, EQW, SBI, LQE, QWG, FDJ, PJF, HQE,  	NXJ, TARGET CLASS
+ 	WTT, PTI, EQW, SBI, LQE, QWG, FDJ, PJF, HQE, NXJ, TARGET CLASS
 
 ## Libraries Involved:
 1. pandas
